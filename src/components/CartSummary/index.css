@@ -1,0 +1,42 @@
+ 
+.order-summary {
+  border: 2px solid orange;
+  padding: 20px;
+  width: 260px;
+  background-color: #f5f5f5;
+  border-radius: 4px;
+  font-family: Arial, sans-serif;
+  align-self:flex-end;
+}
+
+.order-total {
+  font-size: 18px;
+  margin: 0;
+  color: #333;
+}
+
+.amount {
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.items {
+  margin: 8px 0 16px;
+  color: #777;
+  font-size: 14px;
+}
+
+.checkout-btn {
+  width: 100%;
+  padding: 10px;
+  background-color: #3b6ef5;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.checkout-btn:hover {
+  background-color: #2f5de0;
+}
